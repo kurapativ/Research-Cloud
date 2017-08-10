@@ -1,0 +1,6 @@
+<br><br><br><br><br>
+		
+		<a href="http://www.freecounterstat.com" target="_Blank" title="hit counter html" style= none><p style="font-family:courier" size=4>Hit Counter</p></a></br>
+<script type="text/javascript" src="http://counter5.allfreecounter.com/private/counter.js?c=9ad96e40a417d1d1ca4a319fbfa53103"></script>
+        
+		
